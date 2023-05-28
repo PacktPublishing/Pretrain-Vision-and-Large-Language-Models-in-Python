@@ -47,3 +47,6 @@ III. Deployment
 - MLOPs 
 
 Happy trails! ⛰️
+
+### Asking questions and getting help
+If you're stuck, feel free to log an issue in the repo here and I'll try to address it. You can also reach me on Twitch, I'm live every Monday at 9am PST / 12pm EST / 6pm CET right [here](https://www.twitch.tv/aws/schedule). Bring your question and come hang out with us!
