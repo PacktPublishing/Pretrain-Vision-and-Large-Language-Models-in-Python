@@ -8,6 +8,7 @@
 - Example data pipeline in Python for [training GPT-2 on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/training/distributed_training/pytorch/model_parallel/gpt2/data_pipeline.py)
 
 ### 2. Picking the right hyperparameters
+- 10+ example notebooks for [hyperparameter tuning on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/hyperparameter_tuning)
 
 ### 3. Large-scale training on SageMaker
 
