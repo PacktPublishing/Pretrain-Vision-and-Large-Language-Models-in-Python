@@ -15,6 +15,7 @@
 ### 3. Large-scale training on SageMaker
 - End-to-end notebook for training up to [30B parameter GPT-based model on SageMaker](https://github.com/aws/amazon-sagemaker-examples/blob/main/training/distributed_training/pytorch/model_parallel/gpt2/smp-train-gpt-simple.ipynb)
 - Basic example of model parallel trainnig on SageMaker with [Hugging Face `Trainer` API](https://github.com/huggingface/notebooks/blob/main/sagemaker/04_distributed_training_model_parallelism/sagemaker-notebook.ipynb)
+- Noteook for fine-tuning or pretraining [Stable Diffusion on SageMaker](https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/1_data_parallel/Lab1_stable_diffusion/fine_tune_stable_diffusion.ipynb)
 
 ### 4. Compiling your model
 - Example [notebook](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-training-compiler/huggingface/pytorch_single_gpu_single_node/albert-base-v2/albert-base-v2.ipynb) of changing batch size and learning rate as a function of model compilation
