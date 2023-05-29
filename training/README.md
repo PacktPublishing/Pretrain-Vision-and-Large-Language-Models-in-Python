@@ -31,5 +31,6 @@
 
 ### 6. Fine-tuning your model
 - Fine-tuning BLOOM with LoRA using Hugging Face's parameter-efficient fine-tuning [on SageMaker](https://github.com/huggingface/notebooks/blob/main/sagemaker/24_train_bloom_peft_lora/sagemaker-notebook.ipynb)
+- Fine-tuning `Donut` for [SOTA document parsing](https://github.com/huggingface/notebooks/blob/main/sagemaker/26_document_ai_donut/sagemaker-notebook.ipynb) with Hugging Face on SageMaker.
 
 ### 7. Evaluating your model
