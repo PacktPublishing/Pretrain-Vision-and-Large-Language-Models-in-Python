@@ -1,5 +1,5 @@
 # Pretrain Vision and Large Language Models in Python
-Hi there! If you'd like some examples to get hands-on with pretraining your own foundation models 🧠, then you've come to the right place. This repository is meant to pair with my 2023 [book on the topic](https://bit.ly/dist-train-book), providing an end-to-end guide for foundation models on AWS. The book has detailed explanation and relevant examples of key topics in the lifecycle of foundation models, including where they come from, why you'd design your own, how to do that, and how to build it into an application.
+Hi there! If you'd like some examples to get hands-on with pretraining your own foundation models 🧠, then you've come to the right place. This repository is meant to pair with my 2023 [book on the topic](https://bit.ly/dist-train-book), providing an end-to-end guide for foundation models on AWS. The book has detailed explanations and relevant examples of key topics in the lifecycle of foundation models, including where they come from, why you'd design your own, how to do that, and how to build it into an application.
 
 This repository contains examples to help you implement that guidance at scale. 🚀
 
