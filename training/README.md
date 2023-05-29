@@ -20,6 +20,7 @@
 - Notebook for using [PyTorch FSDP with SageMaker and Hugging Face](https://github.com/huggingface/notebooks/blob/main/sagemaker/25_pytorch_fsdp_model_parallelism/sagemaker-notebook.ipynb) for 20B+ parameter models
 
 ### 4. Compiling your model
+- Detailed [walk-through from Chaim Rand](https://towardsdatascience.com/tips-and-tricks-for-upgrading-to-pytorch-2-3127db1d1f3d) on upgrading to PyTorch 2.0 on AWS and SageMaker.
 - Example [notebook](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-training-compiler/huggingface/pytorch_single_gpu_single_node/albert-base-v2/albert-base-v2.ipynb) of changing batch size and learning rate as a function of model compilation, uses SageMaker Training Compiler
 
 ### 5. Measuring throughput
