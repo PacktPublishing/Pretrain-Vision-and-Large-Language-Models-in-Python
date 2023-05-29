@@ -16,3 +16,4 @@
 
 ### 4. Distribution fundamentals
 - Data parallel notebook examples [on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/data_parallel). Includes both vision and language foundation model training!
+- Model parallel examples are available right [here on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/model_parallel).
