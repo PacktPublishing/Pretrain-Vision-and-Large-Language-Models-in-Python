@@ -6,4 +6,4 @@
 
 ### 3. Prepping your containers and accelerators
 
-### 4. Distributed training 101
+### 4. Distribution fundamentals
