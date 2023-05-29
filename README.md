@@ -23,7 +23,7 @@ The book is broken down into 15 chapters. Let's recap those here:
 12. Deploying your model
 13. Prompt engineering
 14. MLOps for foundation models
-15. Future trends
+15. Future trends in pretraining foundation models
 
 You don't need coding examples for Chapters 1 and 15, because those are straightforward and high-level. That means you've got 12 more chapters to work through. I'll break these up into 3 groups for you: preparing your environment, training, and deploying. Your repository structure will then look like this.
 
