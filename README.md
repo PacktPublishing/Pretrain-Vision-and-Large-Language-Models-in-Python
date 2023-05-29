@@ -48,7 +48,7 @@ III. [Deployment](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-L
 - Prompt engineering
 - MLOps 
 
-Each of these directories will start with just a list of links to helpful hands-on tutorials to dive into the content. In July, I'll update these with new examples for pretraining in Python across vision and language. 
+Each of these directories will start with just a list of links to helpful hands-on tutorials to dive into the content. In July, I'll update these with new examples for pretraining in Python across vision and language on AWS.
 
 Happy trails! ⛰️
 
