@@ -28,7 +28,7 @@ The book is broken down into 15 chapters. Let's recap those here:
 You don't need coding examples for Chapters 1 and 15, because those are straightforward and high-level. That means you've got 12 more chapters to work through. I'll break these up into 3 groups for you: preparing your environment, training, and deploying. Your repository structure will then look like this.
 
 ## Repository structure 
-I. [Environment preparation](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/environment_preparation)
+I. [Preparation](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/environment_preparation)
 - dataset analysis
 - model analysis
 - preparing your containers and accelerators on AWS
