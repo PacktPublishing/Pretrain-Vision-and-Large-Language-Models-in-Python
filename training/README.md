@@ -35,3 +35,4 @@
 
 ### 7. Evaluating your model
 - This is too broad to have a single example for everything - that would be like trying to compute the wave angles of every ocean continuously :). However, for some concrete examples in language, take a look at Hugging Face's repository from their book **Natural Language Processing with Transformers** right [here](https://github.com/nlp-with-transformers/notebooks).
+- Alternatively you can jump straight to the Hugging Face `evaluate` library, with many examples and [tutorials](https://huggingface.co/docs/evaluate/index).
