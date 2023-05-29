@@ -29,26 +29,28 @@ You don't need coding examples for Chapters 1 and 15, because those are straight
 
 ## Repository structure 
 I. [Preparation](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/preparation)
-- dataset analysis
-- model analysis
-- preparing your containers and accelerators on AWS
-- basics of distribution
+- Dataset analysis
+- Model analysis
+- Preparing your containers and accelerators on AWS
+- Basics of distribution
 
 II. [Training](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/training)
-- distributed data loader
-- hyperparameters
-- SageMaker
-- compilation and throughput
+- Distributed data loader
+- Hyperparameters
+- Training foundation models on SageMaker
+- Compilation and throughput
+- Fine-tuning and evaluating
+
 
 III. [Deployment](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/deployment)
-- fine-tuning and evaluating
-- bias detection and mitigation
-- prompt engineering
-- MLOPs 
+- Bias detection and mitigation
+- Hosting foundation models on SageMaker
+- Prompt engineering
+- MLOps 
 
 Each of these directories will start with just a list of links to helpful hands-on tutorials to dive into the content. In July, I'll update these with new examples for pretraining in Python across vision and language. 
 
 Happy trails! ⛰️
 
 ### Asking questions and getting help
-If you're stuck, feel free to log an issue in the repo here and I'll try to address it. You can also reach me on Twitch, I'm live every Monday at 9am PST / 12pm EST / 6pm CET right [here](https://www.twitch.tv/aws/schedule). Bring your question and come hang out with us! The show is called *** Build on Generative AI *** with Darko Mesaros.
+If you're stuck, feel free to log an issue in the repo here and I'll try to address it. You can also reach me on Twitch, I'm live every Monday at 9am PST / 12pm EST / 6pm CET right [here](https://www.twitch.tv/aws/schedule). Bring your question and come hang out with us! The show is called *** Build on Generative AI *** with myself and Darko Mesaros.
