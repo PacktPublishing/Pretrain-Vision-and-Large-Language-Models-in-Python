@@ -20,9 +20,9 @@ The book is broken down into 15 chapters. Let's recap those here:
 9. Advanced training concepts
 10. Fine-tuning and evaluating models
 11. Detecting and mitigating bias
-12. Deploying your model
+12. Deploying your model on SageMaker
 13. Prompt engineering
-14. MLOps for foundation models
+14. MLOps for foundation models on AWS
 15. Future trends in pretraining foundation models
 
 You don't need coding examples for Chapters 1 and 15, because those are straightforward and high-level. That means you've got 12 more chapters to work through. I'll break these up into 3 groups for you: preparing your environment, training, and deploying. Your repository structure will then look like this.
