@@ -40,11 +40,13 @@ II. [Training](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Lang
 - SageMaker
 - compilation and throughput
 
-III. Deployment
+III. [Deployment](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/deployment)
 - fine-tuning and evaluating
 - bias detection and mitigation
 - prompt engineering
 - MLOPs 
+
+Each of these directories will start with just a list of links to helpful hands-on tutorials to dive into the content. In July, I'll update these with new examples for pretraining in Python across vision and language. 
 
 Happy trails! ⛰️
 
