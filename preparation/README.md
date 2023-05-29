@@ -8,5 +8,7 @@
 - This relates to Chapter 3 in the book, which has a rich set of links and papers referenced. I'll update this with some scaling law examples soon.
 
 ### 3. Prepping your containers and accelerators
+- This refers to Chapter 4 in the book, which also has some great references.
+- Here's a [link](https://github.com/aws/deep-learning-containers) to the AWS Deep Learning Containers. Pro tip - all the frameworks and packages work really well here right off the bat! 
 
 ### 4. Distribution fundamentals
