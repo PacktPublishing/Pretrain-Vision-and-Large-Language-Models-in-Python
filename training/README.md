@@ -22,6 +22,7 @@
 ### 4. Compiling your model
 - Detailed [walk-through from Chaim Rand](https://towardsdatascience.com/tips-and-tricks-for-upgrading-to-pytorch-2-3127db1d1f3d) on upgrading to PyTorch 2.0 on AWS and SageMaker.
 - Example [notebook](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-training-compiler/huggingface/pytorch_single_gpu_single_node/albert-base-v2/albert-base-v2.ipynb) of changing batch size and learning rate as a function of model compilation, uses SageMaker Training Compiler
+- Guidance [from the Neuron SDK](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/arch/model-architecture-fit.html) on supported models and compiling your model for AWS custom machine learning accelerators, optimized for training, `Trainium`.
 
 ### 5. Measuring throughput
 - I'll add an example here of computing TFLOPS per accelerator
