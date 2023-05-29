@@ -10,10 +10,12 @@
 ### 2. Picking the right hyperparameters
 - 10+ example notebooks for [hyperparameter tuning on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/hyperparameter_tuning)
 - Hyperband automatic model tuning for [distributed training example notebook](https://github.com/aws/amazon-sagemaker-examples/blob/2e60fb1522d1b228a77d4979a0c4ae269a4afe9c/hyperparameter_tuning/model_tuning_for_distributed_training/hyperparameter_tuning_for_distributed_training.ipynb#L7)
+- More [guidance](https://docs.aws.amazon.com/sagemaker/latest/dg/distributed-training.html) on updating learning rate and batch size as a function of the overall accelerator world size
 
 ### 3. Large-scale training on SageMaker
 
 ### 4. Compiling your model
+- Example [notebook](https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker-training-compiler/huggingface/pytorch_single_gpu_single_node/albert-base-v2/albert-base-v2.ipynb) of changing batch size and learning rate as a function of model compilation
 
 ### 5. Measuring and boosting throughput
 
