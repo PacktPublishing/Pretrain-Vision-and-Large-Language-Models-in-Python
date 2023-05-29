@@ -11,5 +11,6 @@
 - This refers to Chapter 4 in the book, which also has some great references.
 - Here's a [link](https://github.com/aws/deep-learning-containers) to the AWS Deep Learning Containers. Pro tip - all the frameworks and packages work really well here right off the bat! 
 - Some documentation for using [Docker containers with SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/docker-containers.html)
+- Here are a few [notebook examples](https://github.com/aws/amazon-sagemaker-examples/tree/main/advanced_functionality/custom-training-containers) for building your own Training containers on SageMaker
 
 ### 4. Distribution fundamentals
