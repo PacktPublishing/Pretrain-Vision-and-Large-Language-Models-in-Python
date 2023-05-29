@@ -34,3 +34,4 @@
 - Fine-tuning `Donut` for [SOTA document parsing](https://github.com/huggingface/notebooks/blob/main/sagemaker/26_document_ai_donut/sagemaker-notebook.ipynb) with Hugging Face on SageMaker.
 
 ### 7. Evaluating your model
+- This is too broad to have a single example for everything - that would be like trying to compute the wave angles of every ocean continuously :). However, for some concrete examples in language, take a look at Hugging Face's repository from their book **Natural Language Processing with Transformers** right [here](https://github.com/nlp-with-transformers/notebooks).
