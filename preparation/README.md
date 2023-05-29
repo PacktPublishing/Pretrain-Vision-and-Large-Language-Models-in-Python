@@ -15,3 +15,4 @@
 - More notebook examples, this time for working with [Trainium on SageMaker](https://github.com/aws-samples/sagemaker-trainium-examples/tree/main)
 
 ### 4. Distribution fundamentals
+- Data parallel notebook examples [on SageMaker](https://github.com/aws/amazon-sagemaker-examples/tree/main/training/distributed_training/pytorch/data_parallel)
