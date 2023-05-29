@@ -34,7 +34,7 @@ I. [Environment preparation](https://github.com/PacktPublishing/Pretrain-Vision-
 - preparing your containers and accelerators on AWS
 - basics of distribution
 
-II. Training
+II. [Training](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python/tree/main/training)
 - distributed data loader
 - hyperparameters
 - SageMaker
