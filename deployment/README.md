@@ -18,3 +18,4 @@
 
 ### 4. MLOps for foundation models with SageMaker
 - Example notebooks for using [SageMaker Pipelines](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-pipelines)
+- Notebooks with [SageMaker Lineage Tracking](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-lineage), to automatically trace up and down your lifecycle and find key assets.
