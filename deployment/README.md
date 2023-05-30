@@ -3,6 +3,7 @@
 ### 1. Detecting and mitigating bias
 - Amazon's ***BOLD: Bias in Open-ended Language Generation Dataset*** Github project is [here](https://github.com/amazon-science/bold).
 - Princeton's ***REVISE: REvealing VIsual biaSEs*** GitHub project is [here](https://github.com/princetonvisualai/revise-tool).
+- Detecting bias in vision and language with SageMaker Clarify, [noteooks are here](https://github.com/aws/amazon-sagemaker-examples/tree/2e60fb1522d1b228a77d4979a0c4ae269a4afe9c/sagemaker-clarify).
 
 ### 2. Hosting foundation models on SageMaker
 
