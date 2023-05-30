@@ -13,5 +13,6 @@
 
 ### 3. Prompt engineering
 - Repository with a [self-managed UI](https://github.com/aws-samples/prompt-engineering-playground-with-sagemaker) to run on Jupyter for prompting prebuilt foundation models with SageMaker JumpStart.
+- AWS [documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-prompt-engineering.html) on prompt engineering for foundation models.
 
 ### 4. MLOps for foundation models with SageMaker
