@@ -9,6 +9,7 @@
 ### 2. Hosting foundation models on SageMaker
 - Notebook for [hosting distributed models](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb) on SageMaker with `deepspeed` is right here. This example uses GPT-J 6B.
 - Using SageMaker JumpStart for hosting (and training) foundation models. This [repository has 7+ example notebooks](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models), you can use these images  and models directly.
+- Source code [link](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models) for large model serving container with SageMaker
 
 ### 3. Prompt engineering
 
