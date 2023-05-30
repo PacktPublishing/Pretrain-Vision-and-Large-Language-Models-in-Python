@@ -1,6 +1,7 @@
 # Deploying foundation models on AWS
 
 ### 1. Detecting and mitigating bias
+- Amazon's ***BOLD: Bias in Open-ended Language Generation Dataset*** Github project is [here](https://github.com/amazon-science/bold).
 
 ### 2. Hosting foundation models on SageMaker
 
