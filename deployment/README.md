@@ -12,5 +12,6 @@
 - Source code [link](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models) for large model serving container with SageMaker
 
 ### 3. Prompt engineering
+- Repository with a [self-managed UI](https://github.com/aws-samples/prompt-engineering-playground-with-sagemaker) to run on Jupyter for prompting prebuilt foundation models with SageMaker JumpStart.
 
 ### 4. MLOps for foundation models with SageMaker
