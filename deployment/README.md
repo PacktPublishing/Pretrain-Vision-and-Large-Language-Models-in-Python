@@ -17,3 +17,4 @@
 - Prefix tuning for causal language modeling with Hugging Face PEFT library: the notebook is [here](https://github.com/huggingface/peft/blob/main/examples/causal_language_modeling/peft_prefix_tuning_clm.ipynb).
 
 ### 4. MLOps for foundation models with SageMaker
+- Example notebooks for using [SageMaker Pipelines](https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-pipelines)
