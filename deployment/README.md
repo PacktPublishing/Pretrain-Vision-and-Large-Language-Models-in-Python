@@ -7,6 +7,7 @@
 - Monitoring model drift and bias for hosted models with SageMaker [documentation is here](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-model-monitor-bias-drift.html).
 
 ### 2. Hosting foundation models on SageMaker
+- Notebook for [hosting distributed models](https://github.com/aws/amazon-sagemaker-examples/blob/main/inference/generativeai/deepspeed/GPT-J-6B_DJLServing_with_PySDK.ipynb) on SageMaker with `deepspeed` is right here.
 
 ### 3. Prompt engineering
 
