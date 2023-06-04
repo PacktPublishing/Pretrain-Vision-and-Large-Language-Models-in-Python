@@ -49,22 +49,22 @@ Now that we know what product we want to build, let's map the steps back to what
 However, for the sake of argument, let's imagine we had more than 1TB of relevant, rich data to work with, and we're interested in pretraining a model like this from scratch. How might we go about it?
 
 ### Part One - Preparation
-***1. Dataset analysis.*** The first thing I'd do is look at our datasets in Python, just to get a sense of their dimensions and characteristics. This includes bias detection and mitigation.
-***2. Model analysis.*** Next, work with a few top LLMs and vision models on this dataset. I'll produce that chart to tell me how far prompt engineering and fine-tuning take me.
-***3. Scaling law analysis.*** Then, I'd run a few hypothesis through the scaling laws equations to make sure I'm thinking about the overall training runs appropriately. 
-***4. Script preparation.*** Once I know which models I want to work with and their target sizes, I get my training scripts ready.
+1. ***Dataset analysis.*** The first thing I'd do is look at our datasets in Python, just to get a sense of their dimensions and characteristics. This includes bias detection and mitigation.
+2. ***Model analysis.*** Next, work with a few top LLMs and vision models on this dataset. I'll produce that chart to tell me how far prompt engineering and fine-tuning take me.
+3. ***Scaling law analysis.*** Then, I'd run a few hypothesis through the scaling laws equations to make sure I'm thinking about the overall training runs appropriately. 
+4. ***Script preparation.*** Once I know which models I want to work with and their target sizes, I get my training scripts ready.
 
 ### Part Two - Training
-***5. Hyperparameter tuning.*** Once my scripts are ready, I run some hyperparameter tuning to find the right model settings.
-***6. Compilation.*** I try to compile my model, including for the Trainium custom hardware on AWS, to max out my cost savings.
-***7. Large-scale training.*** Then I train my model on AWS! I use warm pools, cloudwatch logs, debugger, and other features to log my runs
-***8. Fine-tuning and evaluation***. With my finished model, I run some fine-tuning jobs to focus the LLM on my target use case. I evaluate it using standard KPIs, including a mix of quantitative and qualitative analysis.
+5. ***Hyperparameter tuning.*** Once my scripts are ready, I run some hyperparameter tuning to find the right model settings.
+6. ***Compilation.*** I try to compile my model, including for the Trainium custom hardware on AWS, to max out my cost savings.
+7. ***Large-scale training.*** Then I train my model on AWS! I use warm pools, cloudwatch logs, debugger, and other features to log my runs
+8. ***Fine-tuning and evaluation***. With my finished model, I run some fine-tuning jobs to focus the LLM on my target use case. I evaluate it using standard KPIs, including a mix of quantitative and qualitative analysis.
 
 ### Part Three - Hosting
-***9. Bias detection and mitigation.*** I run more bias detection and mitigation analysis.
-***10. Hosting.*** I shrink my model and host it on SageMaker endpoints.
-***11. Prompt engineering.*** I interact with my model using prompting to get the best performance
-***12. MLOps.*** I build a complete end-to-end pipeline that wraps this entire experience into an interface and pipeline that customers love to use!
+9. ***Bias detection and mitigation.*** I run more bias detection and mitigation analysis.
+10. ***Hosting.*** I shrink my model and host it on SageMaker endpoints.
+11. ***rompt engineering.*** I interact with my model using prompting to get the best performance
+12. ***MLOps.*** I build a complete end-to-end pipeline that wraps this entire experience into an interface and pipeline that customers love to use!
 
 This repository will present scripts and examples that show you how to do each of these steps, in the context of this MovieChat hypothetical app.
 
