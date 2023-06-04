@@ -19,3 +19,6 @@ MovieChat is also really good at helping visually describe scenes, including cam
 You’ll have multiple chats available, letting you move between them as you work on different parts of the overall narrative. 
 
 Once you have a clear written form, MovieChat can interact in the visual domain with you to generate visuals for your characters, scenes, and the overall storyboard. 
+
+# Datasets
+Now that we have a killer idea, let's flesh out a few example datasets we could use to take some steps towards actually building this. You are probably already thinking about the famous ***IMDB*** dataset, with a sample available on Hugging Face [here](https://huggingface.co/datasets/imdb). While is is a great set of reviews, I don't actually think those would help us with producing a net new story from stratch, let alone the storyboard. It might be useful eventually as a signal for the quality of the movies we write, so we'll keep it on the back burner.
