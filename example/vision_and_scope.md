@@ -63,7 +63,7 @@ However, for the sake of argument, let's imagine we had more than 1TB of relevan
 ### Part Three - Hosting
 9. ***Bias detection and mitigation.*** I run more bias detection and mitigation analysis.
 10. ***Hosting.*** I shrink my model and host it on SageMaker endpoints.
-11. ***rompt engineering.*** I interact with my model using prompting to get the best performance
+11. ***Prompt engineering.*** I interact with my model using prompting to get the best performance
 12. ***MLOps.*** I build a complete end-to-end pipeline that wraps this entire experience into an interface and pipeline that customers love to use!
 
 This repository will present scripts and examples that show you how to do each of these steps, in the context of this MovieChat hypothetical app.
