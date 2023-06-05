@@ -27,9 +27,6 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Pretrain-Vision-Language-Models-Beginners/dp/180461825X) today!
 
-## Instructions and Navigations
-All of the code is organized into folders.
-
 **Following is what you need for this book:**
 If you’re a machine learning researcher or enthusiast who wants to start a foundation modelling project, this book is for you. Applied scientists, data scientists, machine learning engineers, solution architects, product managers, and students will all benefit from this book. Intermediate Python is a must, along with introductory concepts of cloud computing. A strong understanding of deep learning fundamentals is needed, while advanced topics will be explained. The content covers advanced machine learning and cloud techniques, explaining them in an actionable, easy-to-understand way.
 
