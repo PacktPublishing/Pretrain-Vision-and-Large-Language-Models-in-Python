@@ -49,7 +49,7 @@ Hi there! If you'd like some examples to get hands-on with pretraining your own 
 
 This repository contains examples to help you implement that guidance at scale. 🚀
 
-By July 1, 2023 I'll have some net new examples here for you to follow step-by-step across the whole lifecycle. To get you moving between now and then, you'll find in this repository links to hands-on examples elsewhere that explain how to implement everything you learned about in the book.
+Eventually I'll have some net new examples here for you to follow step-by-step across the whole lifecycle. To get you moving between now and then, you'll find in this repository links to hands-on examples elsewhere that explain how to implement everything you learned about in the book. I'll start uploading these in July, and will be pushing them out slowly.
 
 The concepts, theory, and examples discussed in the book are general and extend to any compute environment. However, all of the hands-on guidance will focus explicitly on AWS and especially Amazon SageMaker. So let's get rolling! 🎸
 
