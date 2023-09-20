@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Pretrain Vision and Large Language Models in Python
 <a href="https://www.packtpub.com/product/pretrain-vision-and-large-language-models-in-python/9781804618257"><img src="https://m.media-amazon.com/images/I/41hiraOOzWL._SX403_BO1,204,203,200_.jpg" alt="Data Engineering with AWS" height="256px" align="right"></a>
 
