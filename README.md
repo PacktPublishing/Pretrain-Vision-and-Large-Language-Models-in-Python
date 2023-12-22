@@ -44,6 +44,13 @@ If you’re a machine learning researcher or enthusiast who wants to start a fou
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  	1-15	   |   	AWS Web Services(AWS) with a recent version of a modern web browser(Chrome, Edge, etc.)                                  			  | Any OS | 		
 
+<!--
+## Errata
+-->
+<!--
+* Page 212 (Paragraph 5, line 1): **s this a good thing? Honestly, I’m happy to fi nally see the shift ; I’ve been working on generating content with AI/ML models in some fashion since at least 2019, and as a writer and creative person myself, I’ve always thought this was the most interesting part of machine learning. ** _should be_ **Is this a good thing? Honestly, I’m happy to fi nally see the shift ; I’ve been working on generating content with AI/ML models in some fashion since at least 2019, and as a writer and creative person myself, I’ve always thought this was the most interesting part of machine learning.**
+-->
+
   
 ## Get to Know the Author
 **Emily Webber** is a principal machine learning (ML) specialist solutions architect at Amazon Web Services (AWS). In her more than five years at AWS, she has assisted hundreds of customers on their journey to ML in the cloud, specializing in distributed training for large language and vision models. She mentors ML solution architects, authors countless feature designs for SageMaker and AWS, and guides the Amazon SageMaker product and engineering teams on best practices in regard to ML and customers. Emily is widely known in the AWS community for a 16-video YouTube series (https://www.youtube.com/playlistlist=PLhr1KZpdzukcOr_6j_zmSrvYnLUt qsZz) featuring SageMaker with 211,000 views, and for giving a keynote speech at O’Reilly AI London 2019 on a novel reinforcement learning approach she developed for public policy.
