@@ -44,12 +44,11 @@ If you’re a machine learning researcher or enthusiast who wants to start a fou
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  	1-15	   |   	AWS Web Services(AWS) with a recent version of a modern web browser(Chrome, Edge, etc.)                                  			  | Any OS | 		
 
-<!--
+
 ## Errata
--->
-<!--
+
 * Page 212 (Paragraph 5, line 1): **s this a good thing? Honestly, I’m happy to fi nally see the shift ; I’ve been working on generating content with AI/ML models in some fashion since at least 2019, and as a writer and creative person myself, I’ve always thought this was the most interesting part of machine learning. ** _should be_ **Is this a good thing? Honestly, I’m happy to fi nally see the shift ; I’ve been working on generating content with AI/ML models in some fashion since at least 2019, and as a writer and creative person myself, I’ve always thought this was the most interesting part of machine learning.**
--->
+
 
   
 ## Get to Know the Author
